@@ -1,4 +1,4 @@
-# student portfolio
+# Student Portfolio
 
 Hey! Welcme to my portfolio.
 
